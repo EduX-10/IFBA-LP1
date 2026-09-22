@@ -1,3 +1,5 @@
+package aula01.hello;
+
 public class App {
     public static void main(String[] args) throws Exception {
         //Números
